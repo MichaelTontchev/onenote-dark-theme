@@ -32,3 +32,6 @@ a .NormalTextRun {
 .SpellingError {
     color: #BDBDBD !important;
 }
+.ListMarker {
+    color: #BDBDBD;
+}
