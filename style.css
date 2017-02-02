@@ -1,0 +1,34 @@
+.WACInteractiveView {
+    background-color: #222;
+}
+.NormalTextRun {
+    color: #BDBDBD;
+}
+a .NormalTextRun {
+    color: #5c85d6 !important;
+}
+.SectionListView {
+    background-color: #404040 !important;
+}
+.SectionListView a {
+    color: #BDBDBD !important;
+}
+.PageListView {
+    background-color: #333 !important;
+}
+.PageListView a {
+    color: #BDBDBD !important;
+}
+.ActivePage {
+    background-color: #595959 !important;
+}
+.MultiColumnActiveSection .NavSectionHeaderContent {
+    background-color: #737373 !important;
+}
+.ListViewNewButtonLabel,
+.NotebookListButtonLabel {
+    color: #BDBDBD !important;
+}
+.SpellingError {
+    color: #BDBDBD !important;
+}
